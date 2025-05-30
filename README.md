@@ -9,7 +9,7 @@ Built using Power BI, this project visualizes ER data across multiple pages with
 
 
 ## 📁 Files Included
-- [Download Hospital.pbix] https://github.com/Shashankii/Hospital-Analysis/raw/main/Hospital.pbix
+- [Download Hospital.pbix Dashboard ] https://github.com/Shashankii/Hospital-Analysis/raw/main/Hospital.pbix
 ✅ *Fully interactive with embedded data; no external files required*
 
 Screenshot/Demos
