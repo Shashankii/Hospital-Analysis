@@ -7,6 +7,22 @@ This dashboard provides a clear and interactive view of hospital emergency room 
 
 Built using Power BI, this project visualizes ER data across multiple pages with slicers and KPIs. It showcases skills in Power Query, data modeling, and DAX, delivering a structured, user-friendly report tailored for healthcare analytics.
 
+
+## 📁 Files Included
+- [Download Hospital.pbix] https://github.com/Shashankii/Hospital-Analysis/raw/main/Hospital.pbix
+✅ *Fully interactive with embedded data; no external files required*
+
+Screenshot/Demos
+See what a Dashboard looks like - https://github.com/Shashankii/Hospital-Analysis/blob/main/Hospital%20dashbord.png
+
+https://github.com/Shashankii/Hospital-Analysis/blob/main/2.png
+
+https://github.com/Shashankii/Hospital-Analysis/blob/main/3.png
+
+https://github.com/Shashankii/Hospital-Analysis/blob/main/4.png
+
+
+
 ## 🌟 Features & Highlights
 
 🔹 Interactive Visualizations
@@ -76,25 +92,10 @@ Patient experience metrics for service quality monitoring
 Demographic insights for community-specific care strategies
 
 
-
-
-## 📁 Files Included
-- [Download Hospital.pbix] https://github.com/Shashankii/Hospital-Analysis/raw/main/Hospital.pbix
-✅ *Fully interactive with embedded data; no external files required*
-
-Screenshot/Demos
-See what a Dashboard looks like - https://github.com/Shashankii/Hospital-Analysis/blob/main/Hospital%20dashbord.png
-
-https://github.com/Shashankii/Hospital-Analysis/blob/main/2.png
-
-https://github.com/Shashankii/Hospital-Analysis/blob/main/3.png
-
-https://github.com/Shashankii/Hospital-Analysis/blob/main/4.png
-
-
-
 ## 🧩 How to Use
-Download Hospital.pbix from this repository.
-Open using Power BI Desktop.
+Download Hospital.pbix from this repository
+
+Open using Power BI Desktop
+
 Navigate through the tabs, interact with slicers, and explore insights.
 
