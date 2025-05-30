@@ -81,6 +81,9 @@ Demographic insights for community-specific care strategies
 
 Screenshot/Demos
 See what a Dashboard looks like - https://github.com/Shashankii/Hospital-Analysis/blob/main/Hospital%20dashbord.png
+https://github.com/Shashankii/Hospital-Analysis/blob/main/2.png
+https://github.com/Shashankii/Hospital-Analysis/blob/main/3.png
+https://github.com/Shashankii/Hospital-Analysis/blob/main/4.png
 
 
 🧩 How to Use
