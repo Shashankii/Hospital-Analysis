@@ -74,7 +74,7 @@ Demographic insights for community-specific care strategies
 
 
 ## 📁 Files Included
-- [Download Hospital.pbix] https://github.com/Shashankii/Hospital-Analysis/blob/main/Hospital.pbix
+- [Download Hospital.pbix] https://github.com/Shashankii/Hospital-Analysis/raw/main/Hospital.pbix
 ✅ *Fully interactive with embedded data; no external files required*
 
 Screenshot/Demos
