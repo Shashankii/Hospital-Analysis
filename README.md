@@ -1,11 +1,14 @@
 # Hospital-Analysis
-📌 Purpose
+## 📌 Purpose
+
 This dashboard provides a clear and interactive view of hospital emergency room operations. It helps monitor key metrics like patient volume, wait times, satisfaction scores, and referrals—enabling data-driven decisions to improve efficiency and patient care.
 
-📝 Project Description
+## 📝 Project Description
+
 Built using Power BI, this project visualizes ER data across multiple pages with slicers and KPIs. It showcases skills in Power Query, data modeling, and DAX, delivering a structured, user-friendly report tailored for healthcare analytics.
 
-🌟 Features & Highlights
+## 🌟 Features & Highlights
+
 🔹 Interactive Visualizations
 Dynamic slicers for Year and Month
 
@@ -42,7 +45,7 @@ Gender, Race, and Ethnicity analysis
 
 Patient arrival time (by hour and day)
 
-🛠 Technical Tasks Performed
+## 🛠 Technical Tasks Performed
 
 Power Query	- Cleaned and transformed hospital data using ETL logic
 Data Modeling	-Created relationships between tables and used a star schema
@@ -51,7 +54,7 @@ Slicers & Filters	- Added interactivity with time and department filters
 Multi-Page Reporting - Created structured report views for clarity and navigation
 UI/UX Design- Applied design thinking principles for readability and user engagement
 
-🔧 Tools & Technologies
+## 🔧 Tools & Technologies
 Power BI Desktop
 
 Power Query Editor
@@ -63,7 +66,7 @@ Data Modeling in Power BI
 Healthcare Analytics Concepts
 
 
-✅ Key Business Insights Enabled
+## ✅ Key Business Insights Enabled
 ER traffic by hour and day for workforce planning
 
 Referral load by department for better allocation
@@ -86,7 +89,7 @@ https://github.com/Shashankii/Hospital-Analysis/blob/main/3.png
 https://github.com/Shashankii/Hospital-Analysis/blob/main/4.png
 
 
-🧩 How to Use
+## 🧩 How to Use
 Download Hospital.pbix from this repository.
 Open using Power BI Desktop.
 Navigate through the tabs, interact with slicers, and explore insights.
