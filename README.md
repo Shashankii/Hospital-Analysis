@@ -72,6 +72,8 @@ Patient experience metrics for service quality monitoring
 
 Demographic insights for community-specific care strategies
 
+https://github.com/Shashankii/Hospital-Analysis/blob/main/Hospital%20dashbord.png?raw=true
+
 
 ## 📁 Files Included
 - [Download Hospital.pbix] https://github.com/Shashankii/Hospital-Analysis/raw/main/Hospital.pbix
