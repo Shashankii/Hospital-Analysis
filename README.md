@@ -1,4 +1,4 @@
-# Hospital-Analysis
+# Hospital Emergency Room Analysis Dashboard-
 ## 📌 Purpose
 
 This dashboard provides a clear and interactive view of hospital emergency room operations. It helps monitor key metrics like patient volume, wait times, satisfaction scores, and referrals—enabling data-driven decisions to improve efficiency and patient care.
